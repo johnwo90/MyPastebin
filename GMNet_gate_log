@@ -1,0 +1,63 @@
+Dump of the log from server, as described in the message.
+IP-addresses have been removed by me.
+
+
+==== START ====
+9/30/20, 8:37 PM : GMnet GATE.PUNCH STARTED
+9/30/20, 8:37 PM : Starting UDP and TCP servers on port 6510
+9/30/20, 8:37 PM : Loaded UDP Listener
+9/30/20, 8:37 PM : Loaded TCP Listener
+9/30/20, 8:37 PM : IPADDRESS:6510 - UDP -  Recieved data!
+9/30/20, 8:37 PM : IPADDRESS:6510 - UDP -  Server registered!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Connected!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Server wants to register!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Version: 1.2.4
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Server registered!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 1: SquareOff
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 2: This is a server 788
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 3: FOR DEVELOPMENT ONLY!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 4: 6510
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 5: 
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 6: 
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 7: 
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Data 8: 
+9/30/20, 8:37 PM : IPADDRESS:56711 | TCP |  Connected!
+9/30/20, 8:37 PM : IPADDRESS:56711 | TCP |  Sending lobby based on requested filters
+9/30/20, 8:37 PM : IPADDRESS:56711 | TCP |  Disconnected!
+9/30/20, 8:37 PM : IPADDRESS:54664 - UDP -  Recieved data!
+9/30/20, 8:37 PM : IPADDRESS:54664 - UDP -  Client registered!
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Connected!
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Client <-> IPADDRESS -> Connecting...
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Client <-> IPADDRESS -> Found server
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Client <-> IPADDRESS -> Send server port 6510 to client
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Client <-> IPADDRESS -> Send client port 54664 to server
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Client <-> IPADDRESS -> CONNECTED!
+9/30/20, 8:37 PM : IPADDRESS:56712 | TCP |  Disconnected!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Disconnected!
+9/30/20, 8:37 PM : IPADDRESS:56709 | TCP |  Server deleted!
+9/30/20, 8:37 PM : IPADDRESS:6510 - UDP -  Recieved data!
+9/30/20, 8:37 PM : IPADDRESS:6510 - UDP -  Server registered!
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Connected!
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Server wants to register!
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Version: 1.2.4
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Server registered!
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 1: SquareOff
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 2: This is a server 397
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 3: FOR DEVELOPMENT ONLY!
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 4: 6510
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 5: 
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 6: 
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 7: 
+9/30/20, 8:37 PM : IPADDRESS:56721 | TCP |  Data 8: 
+9/30/20, 8:37 PM : IPADDRESS:56722 | TCP |  Connected!
+9/30/20, 8:37 PM : IPADDRESS:56722 | TCP |  Sending lobby based on requested filters
+9/30/20, 8:37 PM : IPADDRESS:56722 | TCP |  Disconnected!
+9/30/20, 8:37 PM : IPADDRESS:54673 - UDP -  Recieved data!
+9/30/20, 8:37 PM : IPADDRESS:54673 - UDP -  Client registered!
+9/30/20, 8:37 PM : IPADDRESS:56747 | TCP |  Connected!
+9/30/20, 8:37 PM : IPADDRESS:56747 | TCP |  Client <-> IPADDRESS -> Connecting...
+9/30/20, 8:37 PM : IPADDRESS:56747 | TCP |  Client <-> IPADDRESS -> Found server
+9/30/20, 8:37 PM : IPADDRESS:56747 | TCP |  Client <-> IPADDRESS -> Send server port 6510 to client
+9/30/20, 8:37 PM : IPADDRESS:56747 | TCP |  Client <-> IPADDRESS -> Send client port 54673 to server
+9/30/20, 8:37 PM : IPADDRESS:56747 | TCP |  Client <-> IPADDRESS -> CONNECTED!
+==== END ====
